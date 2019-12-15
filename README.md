@@ -19,7 +19,7 @@ JavaWeb实现的优优图书商城
 > * 拷贝src和WebRoot目录下的文件分别覆盖对应的文件夹
 > * 在mysql中建立名为uushop的数据库，导入目录下的uushop.sql
 > * 修改src/META-INF/persistence.xml中的数据库连接信息
-> * 所需要的JAR包在 [我的网盘][1]
+> * 所需要的JAR包在 [我的网盘][1] 提取码: da7c
 
 修改src\com\liaoyu\utils\EmailSender.java文件中的邮件配置信息
 ```java
@@ -48,4 +48,4 @@ mimeMessage.setFrom(new InternetAddress("test@163.com"));   //发件人邮件
 
 
 
-  [1]: http://pan.baidu.com/s/1o6lwvEy
+  [1]: https://pan.baidu.com/s/152tJzVkpUpiDa-ACP9Oxdg
